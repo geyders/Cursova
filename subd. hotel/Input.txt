@@ -1,16 +1,8 @@
-3
-Tarasenko
-Igorivna
-Tatiana
-25 1 2006
-Standard 101
-Khudenko
-Sergiivna
-Yuliia
+GH 273653
+Khudenko Sergiivna Yulia
 2 8 2006
-Lux 105
-Gridasov
-Evgenovich
-Dmitriy
-8 4 2005
-Lux 102
+Standart 102
+20 10 2024
+28 10 2024
+Dima
+-------------------------

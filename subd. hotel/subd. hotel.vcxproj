@@ -24,6 +24,7 @@
     <ProjectGuid>{e787828e-615b-4e77-ab17-4f03fb1420a2}</ProjectGuid>
     <RootNamespace>subdhotel</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>subd.hotel</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -127,12 +128,20 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Finctions.cpp" />
+    <ClCompile Include="Address.cpp" />
+    <ClCompile Include="Data.cpp" />
+    <ClCompile Include="Date.cpp" />
+    <ClCompile Include="Hotel.cpp" />
+    <ClCompile Include="Initial.cpp" />
     <ClCompile Include="subd. hotel.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Functions.h" />
+    <ClInclude Include="Address.h" />
+    <ClInclude Include="Data.h" />
+    <ClInclude Include="Date.h" />
+    <ClInclude Include="Hotel.h" />
     <ClInclude Include="Header.h" />
+    <ClInclude Include="Initial.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
